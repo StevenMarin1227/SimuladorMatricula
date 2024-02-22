@@ -1,0 +1,12 @@
+D:\Bibliotecas\Documentos\UNAD\16 01 2024\Estructura de Datos\Momento Inicial\Fase 1\Proyecto\SimuladorMatricula\bin\Debug\SimuladorMatricula.exe.config
+D:\Bibliotecas\Documentos\UNAD\16 01 2024\Estructura de Datos\Momento Inicial\Fase 1\Proyecto\SimuladorMatricula\bin\Debug\SimuladorMatricula.exe
+D:\Bibliotecas\Documentos\UNAD\16 01 2024\Estructura de Datos\Momento Inicial\Fase 1\Proyecto\SimuladorMatricula\bin\Debug\SimuladorMatricula.pdb
+D:\Bibliotecas\Documentos\UNAD\16 01 2024\Estructura de Datos\Momento Inicial\Fase 1\Proyecto\SimuladorMatricula\obj\Debug\SimuladorMatricula.csproj.AssemblyReference.cache
+D:\Bibliotecas\Documentos\UNAD\16 01 2024\Estructura de Datos\Momento Inicial\Fase 1\Proyecto\SimuladorMatricula\obj\Debug\SimuladorMatricula.csproj.SuggestedBindingRedirects.cache
+D:\Bibliotecas\Documentos\UNAD\16 01 2024\Estructura de Datos\Momento Inicial\Fase 1\Proyecto\SimuladorMatricula\obj\Debug\SimuladorMatricula.Properties.Resources.resources
+D:\Bibliotecas\Documentos\UNAD\16 01 2024\Estructura de Datos\Momento Inicial\Fase 1\Proyecto\SimuladorMatricula\obj\Debug\SimuladorMatricula.csproj.GenerateResource.cache
+D:\Bibliotecas\Documentos\UNAD\16 01 2024\Estructura de Datos\Momento Inicial\Fase 1\Proyecto\SimuladorMatricula\obj\Debug\SimuladorMatricula.csproj.CoreCompileInputs.cache
+D:\Bibliotecas\Documentos\UNAD\16 01 2024\Estructura de Datos\Momento Inicial\Fase 1\Proyecto\SimuladorMatricula\obj\Debug\SimuladorMatricula.exe
+D:\Bibliotecas\Documentos\UNAD\16 01 2024\Estructura de Datos\Momento Inicial\Fase 1\Proyecto\SimuladorMatricula\obj\Debug\SimuladorMatricula.pdb
+D:\Bibliotecas\Documentos\UNAD\16 01 2024\Estructura de Datos\Momento Inicial\Fase 1\Proyecto\SimuladorMatricula\obj\Debug\SimuladorMatricula.Datos.resources
+D:\Bibliotecas\Documentos\UNAD\16 01 2024\Estructura de Datos\Momento Inicial\Fase 1\Proyecto\SimuladorMatricula\obj\Debug\SimuladorMatricula.Logueo.resources
